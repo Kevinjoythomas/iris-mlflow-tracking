@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/462811036709289931/fe828c20da624c8f935d3e0258edd9c9/artifacts
+end_time: 1728836084620
+entry_point_name: ''
+experiment_id: '462811036709289931'
+lifecycle_stage: active
+run_id: fe828c20da624c8f935d3e0258edd9c9
+run_name: marvelous-auk-371
+run_uuid: fe828c20da624c8f935d3e0258edd9c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728836084498
+status: 4
+tags: []
+user_id: kevin

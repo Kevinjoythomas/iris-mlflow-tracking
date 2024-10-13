@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/462811036709289931/4d12e3e7314a49c591a61a9848d6fc51/artifacts
+end_time: 1728836253593
+entry_point_name: ''
+experiment_id: '462811036709289931'
+lifecycle_stage: active
+run_id: 4d12e3e7314a49c591a61a9848d6fc51
+run_name: ambitious-shrike-487
+run_uuid: 4d12e3e7314a49c591a61a9848d6fc51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728836232542
+status: 3
+tags: []
+user_id: kevin

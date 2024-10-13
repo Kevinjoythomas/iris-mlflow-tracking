@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/301404917014610055/a7b1391cb6014be586fb82fbc4ec2bdf/artifacts
+end_time: 1728839002978
+entry_point_name: ''
+experiment_id: '301404917014610055'
+lifecycle_stage: active
+run_id: a7b1391cb6014be586fb82fbc4ec2bdf
+run_name: wistful-perch-928
+run_uuid: a7b1391cb6014be586fb82fbc4ec2bdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728838996511
+status: 4
+tags: []
+user_id: kevin

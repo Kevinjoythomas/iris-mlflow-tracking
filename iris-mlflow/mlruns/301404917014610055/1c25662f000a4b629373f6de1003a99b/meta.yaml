@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/301404917014610055/1c25662f000a4b629373f6de1003a99b/artifacts
+end_time: 1728839015259
+entry_point_name: ''
+experiment_id: '301404917014610055'
+lifecycle_stage: active
+run_id: 1c25662f000a4b629373f6de1003a99b
+run_name: nimble-gull-36
+run_uuid: 1c25662f000a4b629373f6de1003a99b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728839007346
+status: 3
+tags: []
+user_id: kevin

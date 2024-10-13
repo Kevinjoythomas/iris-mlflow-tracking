@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/301404917014610055/b5782c92d3154d659b09bc33c2371e4a/artifacts
+end_time: 1728837605745
+entry_point_name: ''
+experiment_id: '301404917014610055'
+lifecycle_stage: active
+run_id: b5782c92d3154d659b09bc33c2371e4a
+run_name: fortunate-elk-916
+run_uuid: b5782c92d3154d659b09bc33c2371e4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728837598225
+status: 3
+tags: []
+user_id: kevin

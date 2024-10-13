@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/462811036709289931/a5f80278ecb54535b1d2122bdb938e95/artifacts
+end_time: 1728838978951
+entry_point_name: ''
+experiment_id: '462811036709289931'
+lifecycle_stage: active
+run_id: a5f80278ecb54535b1d2122bdb938e95
+run_name: unruly-shad-40
+run_uuid: a5f80278ecb54535b1d2122bdb938e95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728838978839
+status: 3
+tags: []
+user_id: kevin
