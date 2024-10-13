@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/462811036709289931/f808946dbb1e4be08aca186cc27a3b8b/artifacts
+end_time: 1728836047854
+entry_point_name: ''
+experiment_id: '462811036709289931'
+lifecycle_stage: active
+run_id: f808946dbb1e4be08aca186cc27a3b8b
+run_name: trusting-stork-169
+run_uuid: f808946dbb1e4be08aca186cc27a3b8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728836047725
+status: 4
+tags: []
+user_id: kevin

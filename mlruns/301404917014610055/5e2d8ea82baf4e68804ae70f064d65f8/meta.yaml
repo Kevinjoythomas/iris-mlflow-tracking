@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/301404917014610055/5e2d8ea82baf4e68804ae70f064d65f8/artifacts
+end_time: 1728837442282
+entry_point_name: ''
+experiment_id: '301404917014610055'
+lifecycle_stage: active
+run_id: 5e2d8ea82baf4e68804ae70f064d65f8
+run_name: receptive-cub-547
+run_uuid: 5e2d8ea82baf4e68804ae70f064d65f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728837434158
+status: 3
+tags: []
+user_id: kevin
